@@ -26,36 +26,36 @@ urls:
 
 author_logo: profile.png
 author: Kyeongmin Kim
-author_bio: Hi, let's share everything we want :D
+author_bio: Hi, let's share everything we want. :D
 author_email: "kkm940116@gmail.com"
 author_location: South Korea
 author_website_url: "https://rhinoogm.github.io"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+typewrite-text: I'm interested in robot software, embedded software, control theory, etc!
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
+            - company_name: LIGNEX1
               company_logo: google.png
-              company_url: https://google.com
+              company_url: https://lignex1.com/
               designation: Software Engineer
-              description: Worked on various Google Products
+              description: Worked on various Missile Engagement Control Systems
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
+              #- company_name: Microsoft
+              #company_logo: microsoft.png
+              #company_url: https://microsoft.com
+              #designation: Azure Developer
+              #description: Worked on various Azure Cloud Products
+              #visibility: true
 
 # Education
-author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
-                visibility: true
+#author_education_details:
+              #- college_logo: mit.png
+                #college_name: MIT
+                #college_url: https://mit.org
+                #college_degree: CS Engineer
+                #description: Bachelor of Technology
+                #visibility: false
 
 # Projects
 author_project_details:
@@ -71,16 +71,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: null
+github_username:  Rhinoogm
+facebook_username: null
+linkedin_username: null
+behance_username: null
+instagram_username: null
+medium_username: null
+telegram_username: null
+dribbble_username: null
+flickr_username: null
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
