@@ -1,7 +1,7 @@
 ---
 name: Kyeongmin Kim
 username: Rhinoogm
-bio: "Full Stack Web Developer, based in Bangalore, India"
+bio: "Hi I'm Kyeongmin, a Software Developer for robots, embedded systems."
 site: https://Rhinoogm.github.io
 avatar: xplor4r.png
 email: kkm940116@gmail.com
